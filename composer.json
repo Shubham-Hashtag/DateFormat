@@ -1,0 +1,19 @@
+{
+    "name": "administrator/date-format",
+    "description": "this package is used for date formatting",
+    "autoload": {
+        "psr-4": {
+            "DateFormat\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Shubham Singh"
+        }
+    ],
+    "require": {
+        "php": ">=5.6",
+        "illuminate/support": ">=5.6"
+    },
+    "minimum-stability": "dev"
+}
