@@ -1,5 +1,5 @@
 {
-    "name": "administrator/date-format",
+    "name": "shubham/date-format",
     "description": "this package is used for date formatting",
     "autoload": {
         "psr-4": {
