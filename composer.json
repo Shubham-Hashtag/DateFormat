@@ -1,6 +1,8 @@
 {
     "name": "shubham-hashtag/date-format",
     "description": "this package is used for date formatting",
+    "type": "library",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "DateFormat\\": "src/"
@@ -8,7 +10,8 @@
     },
     "authors": [
         {
-            "name": "Shubham Singh"
+            "name": "Shubham Singh",
+            "email": "shubham.singh2@hashtaglabs.in"
         }
     ],
     "require": {
